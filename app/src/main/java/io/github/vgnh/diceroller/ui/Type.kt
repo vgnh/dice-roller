@@ -1,4 +1,4 @@
-package com.example.diceroller.ui
+package io.github.vgnh.diceroller.ui
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

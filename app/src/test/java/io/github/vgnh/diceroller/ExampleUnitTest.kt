@@ -1,4 +1,4 @@
-package com.example.diceroller
+package io.github.vgnh.diceroller
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.diceroller.ui
+package io.github.vgnh.diceroller.ui
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

@@ -1,4 +1,4 @@
-package com.example.diceroller
+package io.github.vgnh.diceroller
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.diceroller", appContext.packageName)
+        assertEquals("io.github.vgnh.diceroller", appContext.packageName)
     }
 }

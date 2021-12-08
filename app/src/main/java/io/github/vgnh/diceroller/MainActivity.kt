@@ -1,4 +1,4 @@
-package com.example.diceroller
+package io.github.vgnh.diceroller
 
 import android.content.SharedPreferences
 import android.os.Bundle
@@ -20,7 +20,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.diceroller.ui.DiceRollerTheme
+import io.github.vgnh.diceroller.ui.DiceRollerTheme
 import kotlin.concurrent.thread
 import kotlin.random.Random
 
